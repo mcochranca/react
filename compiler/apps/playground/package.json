@@ -23,7 +23,7 @@
     "@babel/types": "^7.19.0",
     "@heroicons/react": "^1.0.6",
     "@monaco-editor/react": "^4.4.6",
-    "@playwright/test": "^1.42.1",
+    "@playwright/test": "^1.55.1",
     "@use-gesture/react": "^10.2.22",
     "fs": "^0.0.1-security",
     "hermes-eslint": "^0.14.0",
